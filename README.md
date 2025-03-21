@@ -51,7 +51,6 @@ medical-diagnosis/
 │   ├── lungs_disease_model.sav
 │   ├── Thyroid_model.sav
 │── app.py
-│── requirements.txt
 │── README.md
 ```
 
